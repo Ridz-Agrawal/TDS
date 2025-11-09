@@ -8,4 +8,4 @@ It runs a matrix build for three different Python versions ('3.9', '3.10', '3.11
 
 Each job generates and uploads a unique build artifact.
 
-Contact: user@example.com
+Contact: 24f2004330@ds.study.iitm.ac.in
